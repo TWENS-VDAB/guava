@@ -3,6 +3,8 @@
 [![Latest release](https://img.shields.io/github/release/google/guava.svg)](https://github.com/google/guava/releases/latest)
 [![Build Status](https://travis-ci.org/google/guava.svg?branch=master)](https://travis-ci.org/google/guava)
 
+haha i added changes
+
 Guava is a set of core libraries that includes new collection types (such as
 multimap and multiset), immutable collections, a graph library, and utilities
 for concurrency, I/O, hashing, primitives, strings, and more!
@@ -123,4 +125,3 @@ flavor.
 
 [using Guava in your build]: https://github.com/google/guava/wiki/UseGuavaInYourBuild
 [repackage]: https://github.com/google/guava/wiki/UseGuavaInYourBuild#what-if-i-want-to-use-beta-apis-from-a-library-that-people-use-as-a-dependency
-
